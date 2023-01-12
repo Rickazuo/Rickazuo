@@ -33,7 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/Rickazuo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rickazuo&theme=dracula&show_icons=true" />
 </a>
 
