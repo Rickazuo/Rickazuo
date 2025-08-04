@@ -1,44 +1,36 @@
+### 👨‍💻 About Me
 
-<h3> :man: &nbsp;Sobre mim </h3>
+- 💼 Software developer with over 2 years of experience working on diverse projects.  
+- 🎓 Bachelor's degree in Production Engineering and a postgraduate degree in Software Analysis and Development.
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **ENGENHARIA DE PRODUÇÃO** na <a href="https://www.ufsm.br/">Universidade Federal de Santa Maria</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **FRONT-END** com foco em **Java Script, REACT**.
+---
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+### 🚀 My Skills
 
-**Aplicações e Dados**
+**Languages & Technologies**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=239120)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+**Platforms & Systems**  
+![Mainframe](https://img.shields.io/badge/-Mainframe-333333?style=flat)
+![LINC(ABSUITE)](https://img.shields.io/badge/-LINC-333333?style=flat)
 
-**Utilidades**
+**Development Tools**  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+---
 
-**DevOps**
+### 🌎 Where to find me
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/Rickazuo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rickazuo&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Ricardo Nozaki](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)](https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)
-[![GitHub Ricardo Nozaki]( https://img.shields.io/github/followers/Rickazuo?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+Linkedin: [Ricardo Nozaki](https://www.linkedin.com/in/ricardo-nozaki-2870b5189/)
